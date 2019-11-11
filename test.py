@@ -1,4 +1,4 @@
-from selenium import webdriver
+from bs4 import BeautifulSoup
 
-driver = webdriver.Chrome()
-driver.get("https://www.baidu.com")
+soup=BeautifulSoup('<p>Hello</p>','lxml')
+print(soup.p.string)
