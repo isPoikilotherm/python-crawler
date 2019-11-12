@@ -1,4 +1,15 @@
-from bs4 import BeautifulSoup
+import tornado.ioloop
+import tornado.web
 
-soup=BeautifulSoup('<p>Hello</p>','lxml')
-print(soup.p.string)
+class MainHandler(tornado.web.RequestHandler):
+    def get(self):
+        self.write("Hello,World")
+
+def make_app():
+        return tornado.web.Application([
+            (r"/",MainHandler),
+        ])
+if __name__ == '__main__':
+    app = make_app()
+    app.listen(8888)
+    tornado.ioloop.IOLoop.current().start()
