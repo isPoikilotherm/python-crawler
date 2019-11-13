@@ -2,12 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ba77ae5b-a9ca-4d17-9e31-8e1fb7a284a3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/tools/urljoin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/urlparse.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/urlsplit.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/urlunparse.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/urlunsplit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tools/parse_qs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tools/parse_qsl.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tools/quote.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tools/unquote.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tools/urlencode.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tools/urlparse.py" beforeDir="false" afterPath="$PROJECT_DIR$/tools/urlparse.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tools/urlsplit.py" beforeDir="false" afterPath="$PROJECT_DIR$/tools/urlsplit.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tools/urlunparse.py" beforeDir="false" afterPath="$PROJECT_DIR$/tools/urlunparse.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tools/urlunsplit.py" beforeDir="false" afterPath="$PROJECT_DIR$/tools/urlunsplit.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,17 +20,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/tools/urljoin.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="10" column="45" lean-forward="true" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -46,11 +40,16 @@
         <option value="$PROJECT_DIR$/daili.py" />
         <option value="$PROJECT_DIR$/Cookies.py" />
         <option value="$PROJECT_DIR$/error.py" />
+        <option value="$PROJECT_DIR$/tools/urljoin.py" />
         <option value="$PROJECT_DIR$/tools/urlparse.py" />
+        <option value="$PROJECT_DIR$/tools/urlunsplit.py" />
         <option value="$PROJECT_DIR$/tools/urlunparse.py" />
         <option value="$PROJECT_DIR$/tools/urlsplit.py" />
-        <option value="$PROJECT_DIR$/tools/urlunsplit.py" />
-        <option value="$PROJECT_DIR$/tools/urljoin.py" />
+        <option value="$PROJECT_DIR$/tools/urlencode.py" />
+        <option value="$PROJECT_DIR$/tools/parse_qs.py" />
+        <option value="$PROJECT_DIR$/tools/parse_qsl.py" />
+        <option value="$PROJECT_DIR$/tools/quote.py" />
+        <option value="$PROJECT_DIR$/tools/unquote.py" />
       </list>
     </option>
   </component>
@@ -74,11 +73,6 @@
             <path>
               <item name="python crawler" type="b2602c69:ProjectViewProjectNode" />
               <item name="python crawler" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python crawler" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python crawler" type="462c0819:PsiDirectoryNode" />
-              <item name="tools" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -111,8 +105,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.urljoin">
-    <configuration name="urljoin" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.unquote">
+    <configuration name="parse_qs" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python crawler" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -125,7 +119,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tools/urljoin.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tools/parse_qs.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -134,7 +128,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="urlparse" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="parse_qsl" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python crawler" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -147,7 +141,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tools/urlparse.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tools/parse_qsl.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -156,7 +150,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="urlsplit" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="quote" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python crawler" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -169,7 +163,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tools/urlsplit.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tools/quote.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -178,7 +172,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="urlunparse" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="unquote" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python crawler" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -191,7 +185,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tools/urlunparse.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tools/unquote.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -200,7 +194,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="urlunsplit" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="urlencode" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python crawler" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -213,7 +207,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tools/urlunsplit.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tools/urlencode.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -224,11 +218,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.urljoin" />
-        <item itemvalue="Python.urlunsplit" />
-        <item itemvalue="Python.urlsplit" />
-        <item itemvalue="Python.urlparse" />
-        <item itemvalue="Python.urlunparse" />
+        <item itemvalue="Python.unquote" />
+        <item itemvalue="Python.quote" />
+        <item itemvalue="Python.parse_qsl" />
+        <item itemvalue="Python.parse_qs" />
+        <item itemvalue="Python.urlencode" />
       </list>
     </recent_temporary>
   </component>
@@ -244,7 +238,7 @@
       <updated>1573379851741</updated>
       <workItem from="1573379855215" duration="13779000" />
       <workItem from="1573552874535" duration="4223000" />
-      <workItem from="1573619372605" duration="12373000" />
+      <workItem from="1573619372605" duration="14476000" />
     </task>
     <task id="LOCAL-00001" summary="ddd">
       <created>1573458025211</created>
@@ -295,22 +289,28 @@
       <option name="project" value="LOCAL" />
       <updated>1573631840360</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="ddd">
+      <created>1573650356505</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1573650356505</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30375000" />
+    <option name="totallyTimeSpent" value="32478000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="0" width="1922" height="1031" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18249734" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18249734" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.60618997" visible="true" weight="0.39261746" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.60618997" visible="true" weight="0.39261746" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4994664" weight="0.39932886" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -336,14 +336,19 @@
     <option name="LAST_COMMIT_MESSAGE" value="ddd" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/python_crawler$quote.coverage" NAME="quote Coverage Results" MODIFIED="1573651282091" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tools" />
+    <SUITE FILE_PATH="coverage/python_crawler$urlencode.coverage" NAME="urlencode Coverage Results" MODIFIED="1573650596820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tools" />
     <SUITE FILE_PATH="coverage/python_crawler$test.coverage" NAME="test Coverage Results" MODIFIED="1573629003004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/python_crawler$Cookies.coverage" NAME="Cookies Coverage Results" MODIFIED="1573630871091" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/python_crawler$urlparse.coverage" NAME="urlparse Coverage Results" MODIFIED="1573647378363" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tools" />
-    <SUITE FILE_PATH="coverage/python_crawler$daili.coverage" NAME="daili Coverage Results" MODIFIED="1573630480707" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_crawler$parse_qsl.coverage" NAME="parse_qsl Coverage Results" MODIFIED="1573651148145" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tools" />
+    <SUITE FILE_PATH="coverage/python_crawler$unquote.coverage" NAME="unquote Coverage Results" MODIFIED="1573651466858" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tools" />
     <SUITE FILE_PATH="coverage/python_crawler$urlunparse.coverage" NAME="urlunparse Coverage Results" MODIFIED="1573647358595" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tools" />
     <SUITE FILE_PATH="coverage/python_crawler$urlsplit.coverage" NAME="urlsplit Coverage Results" MODIFIED="1573648328834" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tools" />
     <SUITE FILE_PATH="coverage/python_crawler$urljoin.coverage" NAME="urljoin Coverage Results" MODIFIED="1573649320408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tools" />
     <SUITE FILE_PATH="coverage/python_crawler$error.coverage" NAME="error Coverage Results" MODIFIED="1573646838123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_crawler$parse_qs.coverage" NAME="parse_qs Coverage Results" MODIFIED="1573651139082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tools" />
+    <SUITE FILE_PATH="coverage/python_crawler$Cookies.coverage" NAME="Cookies Coverage Results" MODIFIED="1573630871091" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_crawler$urlparse.coverage" NAME="urlparse Coverage Results" MODIFIED="1573647378363" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tools" />
+    <SUITE FILE_PATH="coverage/python_crawler$daili.coverage" NAME="daili Coverage Results" MODIFIED="1573630480707" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_crawler$urlunsplit.coverage" NAME="urlunsplit Coverage Results" MODIFIED="1573648718079" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tools" />
   </component>
   <component name="editorHistoryManager">
@@ -364,23 +369,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tools/yanzheng.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-          <folding>
-            <element signature="e#0#92#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tools/Cookies.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="7" column="13" lean-forward="true" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tools/daili.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
@@ -391,9 +379,57 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/tools/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tools/yanzheng.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="7" column="37" lean-forward="true" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#92#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tools/urlunsplit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="4" column="7" lean-forward="true" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tools/urlunparse.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tools/urlsplit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tools/urlparse.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tools/urljoin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="11" column="44" lean-forward="true" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/tools/error.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
+        <state relative-caret-position="360">
           <caret line="10" column="35" lean-forward="true" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
           <folding>
             <element signature="e#0#32#0" expanded="true" />
@@ -401,41 +437,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tools/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tools/urlparse.py">
+    <entry file="file://$PROJECT_DIR$/tools/Cookies.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="2" column="68" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="68" />
+        <state relative-caret-position="252">
+          <caret line="7" column="13" lean-forward="true" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tools/urlsplit.py">
+    <entry file="file://$PROJECT_DIR$/tools/urlencode.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+        <state relative-caret-position="324">
+          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tools/urlunparse.py">
+    <entry file="file://$PROJECT_DIR$/tools/unquote.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+        <state relative-caret-position="108">
+          <caret line="3" column="19" lean-forward="true" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tools/urlunsplit.py">
+    <entry file="file://$PROJECT_DIR$/tools/quote.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        <state>
+          <caret column="21" lean-forward="true" selection-start-column="21" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tools/urljoin.py">
+    <entry file="file://$PROJECT_DIR$/tools/parse_qsl.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="10" column="45" lean-forward="true" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
+        <state relative-caret-position="180">
+          <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tools/parse_qs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="5" selection-start-line="5" selection-end-line="5" selection-end-column="16" />
         </state>
       </provider>
     </entry>

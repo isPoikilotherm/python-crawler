@@ -6,3 +6,4 @@ print(type(result),result)#返回元组类型
 result1 = urlparse('www.baidu.com/index.html;user?id=5#comment',
                    scheme='http')#返回元组类型
 print(result1)
+#解析链接，将链接转化为元组
