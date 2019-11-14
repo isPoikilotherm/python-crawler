@@ -1,0 +1,4 @@
+#!/home/yangliu/PycharmProjects/python crawler/venv/bin/python3.5
+
+from splash.server import main
+main()
