@@ -2,11 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ba77ae5b-a9ca-4d17-9e31-8e1fb7a284a3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Basic library/Regular/findall.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic library/Regular/match.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic library/Regular/search.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/修饰符.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic library/Beautiful Soup/base.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic library/Beautiful Soup/find_all.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic library/Beautiful Soup/link.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic library/Regular/compile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic library/Regular/sub.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic library/maoyan/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic library/maoyan/get_one_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic library/maoyan/parse_one_page.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic library/Regular/findall.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic library/Regular/findall.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic library/Regular/search.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic library/Regular/search.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,21 +22,9 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Basic library/Regular/findall.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Basic library/Regular/search.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="18" column="83" selection-start-line="18" selection-start-column="83" selection-end-line="18" selection-end-column="83" />
-              <folding>
-                <element signature="e#0#15#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/Basic library/Beautiful Soup/find_all.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -81,8 +75,17 @@
         <option value="$PROJECT_DIR$/advanced usage/Prepared Request.py" />
         <option value="$PROJECT_DIR$/Basic library/Regular/match.py" />
         <option value="$PROJECT_DIR$/Basic library/requests/get/text.py" />
-        <option value="$PROJECT_DIR$/Basic library/Regular/findall.py" />
         <option value="$PROJECT_DIR$/Basic library/Regular/search.py" />
+        <option value="$PROJECT_DIR$/Basic library/Regular/findall.py" />
+        <option value="$PROJECT_DIR$/Basic library/Regular/sub.py" />
+        <option value="$PROJECT_DIR$/Basic library/Regular/compile.py" />
+        <option value="$PROJECT_DIR$/Basic library/maoyan.py" />
+        <option value="$PROJECT_DIR$/Basic library/maoyan/get_one_page.py" />
+        <option value="$PROJECT_DIR$/Basic library/maoyan/__init__.py" />
+        <option value="$PROJECT_DIR$/Basic library/maoyan/parse_one_page.py" />
+        <option value="$PROJECT_DIR$/Basic library/Beautiful Soup/base.py" />
+        <option value="$PROJECT_DIR$/Basic library/Beautiful Soup/link.py" />
+        <option value="$PROJECT_DIR$/Basic library/Beautiful Soup/find_all.py" />
       </list>
     </option>
   </component>
@@ -116,27 +119,7 @@
               <item name="python crawler" type="b2602c69:ProjectViewProjectNode" />
               <item name="python crawler" type="462c0819:PsiDirectoryNode" />
               <item name="Basic library" type="462c0819:PsiDirectoryNode" />
-              <item name="Regular" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python crawler" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python crawler" type="462c0819:PsiDirectoryNode" />
-              <item name="Basic library" type="462c0819:PsiDirectoryNode" />
-              <item name="requests" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python crawler" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python crawler" type="462c0819:PsiDirectoryNode" />
-              <item name="Basic library" type="462c0819:PsiDirectoryNode" />
-              <item name="requests" type="462c0819:PsiDirectoryNode" />
-              <item name="get" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python crawler" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python crawler" type="462c0819:PsiDirectoryNode" />
-              <item name="Basic library" type="462c0819:PsiDirectoryNode" />
-              <item name="requests" type="462c0819:PsiDirectoryNode" />
-              <item name="response" type="462c0819:PsiDirectoryNode" />
+              <item name="Beautiful Soup" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -179,8 +162,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.search">
-    <configuration name="Agent" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.link">
+    <configuration name="__init__" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python crawler" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -188,12 +171,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/advanced usage" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Basic library/maoyan" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/advanced usage/Agent.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basic library/maoyan/__init__.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -202,7 +185,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Prepared Request" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="base" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python crawler" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -210,12 +193,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/advanced usage" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Basic library/Beautiful Soup" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/advanced usage/Prepared Request.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basic library/Beautiful Soup/base.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -224,7 +207,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="match" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="findall" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python crawler" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -237,7 +220,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basic library/Regular/match.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basic library/Regular/findall.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -246,7 +229,29 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="search" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="link" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python crawler" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Basic library/Beautiful Soup" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basic library/Beautiful Soup/link.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sub" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python crawler" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -259,29 +264,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basic library/Regular/search.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="urlsplit" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python crawler" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Basic library/urllib" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basic library/urllib/urlsplit.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basic library/Regular/sub.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -292,11 +275,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.search" />
-        <item itemvalue="Python.match" />
-        <item itemvalue="Python.urlsplit" />
-        <item itemvalue="Python.Prepared Request" />
-        <item itemvalue="Python.Agent" />
+        <item itemvalue="Python.link" />
+        <item itemvalue="Python.base" />
+        <item itemvalue="Python.__init__" />
+        <item itemvalue="Python.sub" />
+        <item itemvalue="Python.findall" />
       </list>
     </recent_temporary>
   </component>
@@ -318,7 +301,10 @@
       <workItem from="1573790798665" duration="972000" />
       <workItem from="1573791782169" duration="285000" />
       <workItem from="1573792079810" duration="11852000" />
-      <workItem from="1573987445252" duration="7095000" />
+      <workItem from="1573987445252" duration="7715000" />
+      <workItem from="1574051226053" duration="9069000" />
+      <workItem from="1574084018032" duration="1671000" />
+      <workItem from="1574137546806" duration="12133000" />
     </task>
     <task id="LOCAL-00001" summary="ddd">
       <created>1573458025211</created>
@@ -383,22 +369,29 @@
       <option name="project" value="LOCAL" />
       <updated>1573652342438</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="ddd">
+      <created>1573997721033</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1573997721033</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="57869000" />
+    <option name="totallyTimeSpent" value="81362000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="0" width="1922" height="1031" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19530416" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20170757" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.4994664" weight="0.32997763" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.6045891" visible="true" weight="0.49440715" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.6045891" visible="true" weight="0.26510066" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49893278" weight="0.19127516" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -407,7 +400,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.3954109" side_tool="true" weight="0.29082775" />
-      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49786553" weight="0.32997763" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49786553" weight="0.32960895" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="bottom" id="Concurrent Activities Diagram" order="13" weight="0.32997763" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -456,17 +449,22 @@
     <SUITE FILE_PATH="coverage/python_crawler$urlunparse.coverage" NAME="urlunparse Coverage Results" MODIFIED="1573647358595" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tools" />
     <SUITE FILE_PATH="coverage/python_crawler$urljoin.coverage" NAME="urljoin Coverage Results" MODIFIED="1573649320408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tools" />
     <SUITE FILE_PATH="coverage/python_crawler$text.coverage" NAME="text Coverage Results" MODIFIED="1573738049353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/crawler" />
+    <SUITE FILE_PATH="coverage/python_crawler$sub.coverage" NAME="sub Coverage Results" MODIFIED="1574079752651" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic library/Regular" />
     <SUITE FILE_PATH="coverage/python_crawler$Cookies.coverage" NAME="Cookies Coverage Results" MODIFIED="1573793965464" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/crawler/advanced usage" />
+    <SUITE FILE_PATH="coverage/python_crawler$findall.coverage" NAME="findall Coverage Results" MODIFIED="1574078940099" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic library/Regular" />
     <SUITE FILE_PATH="coverage/python_crawler$match.coverage" NAME="match Coverage Results" MODIFIED="1573803452988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic library/Regular" />
+    <SUITE FILE_PATH="coverage/python_crawler$link.coverage" NAME="link Coverage Results" MODIFIED="1574149990788" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic library/Beautiful Soup" />
     <SUITE FILE_PATH="coverage/python_crawler$quote.coverage" NAME="quote Coverage Results" MODIFIED="1573651282091" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tools" />
     <SUITE FILE_PATH="coverage/python_crawler$urlencode.coverage" NAME="urlencode Coverage Results" MODIFIED="1573650596820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tools" />
     <SUITE FILE_PATH="coverage/python_crawler$test.coverage" NAME="test Coverage Results" MODIFIED="1573629003004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_crawler$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1574142856526" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic library/maoyan" />
     <SUITE FILE_PATH="coverage/python_crawler$unquote.coverage" NAME="unquote Coverage Results" MODIFIED="1573737447165" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tools" />
     <SUITE FILE_PATH="coverage/python_crawler$Agent.coverage" NAME="Agent Coverage Results" MODIFIED="1573798625242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/advanced usage" />
     <SUITE FILE_PATH="coverage/python_crawler$urlsplit.coverage" NAME="urlsplit Coverage Results" MODIFIED="1573801570669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic library/urllib" />
     <SUITE FILE_PATH="coverage/python_crawler$error.coverage" NAME="error Coverage Results" MODIFIED="1573737442822" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tools" />
     <SUITE FILE_PATH="coverage/python_crawler$parse_qs.coverage" NAME="parse_qs Coverage Results" MODIFIED="1573651139082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tools" />
     <SUITE FILE_PATH="coverage/python_crawler$requests.coverage" NAME="requests Coverage Results" MODIFIED="1573737451078" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tools" />
+    <SUITE FILE_PATH="coverage/python_crawler$base.coverage" NAME="base Coverage Results" MODIFIED="1574146433169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic library/Beautiful Soup" />
     <SUITE FILE_PATH="coverage/python_crawler$Session.coverage" NAME="Session Coverage Results" MODIFIED="1573796678306" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/crawler/advanced usage" />
     <SUITE FILE_PATH="coverage/python_crawler$file.coverage" NAME="file Coverage Results" MODIFIED="1573792731583" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/crawler/response" />
     <SUITE FILE_PATH="coverage/python_crawler$SSL.coverage" NAME="SSL Coverage Results" MODIFIED="1573797077085" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/advanced usage" />
@@ -474,7 +472,7 @@
     <SUITE FILE_PATH="coverage/python_crawler$urlparse.coverage" NAME="urlparse Coverage Results" MODIFIED="1573647378363" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tools" />
     <SUITE FILE_PATH="coverage/python_crawler$Session__1_.coverage" NAME="Session (1) Coverage Results" MODIFIED="1573796797146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/advanced usage" />
     <SUITE FILE_PATH="coverage/python_crawler$daili.coverage" NAME="daili Coverage Results" MODIFIED="1573737432330" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tools" />
-    <SUITE FILE_PATH="coverage/python_crawler$search.coverage" NAME="search Coverage Results" MODIFIED="1573993971877" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic library/Regular" />
+    <SUITE FILE_PATH="coverage/python_crawler$search.coverage" NAME="search Coverage Results" MODIFIED="1574078661744" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic library/Regular" />
     <SUITE FILE_PATH="coverage/python_crawler$urlunsplit.coverage" NAME="urlunsplit Coverage Results" MODIFIED="1573648718079" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tools" />
     <SUITE FILE_PATH="coverage/python_crawler$jianshu.coverage" NAME="jianshu Coverage Results" MODIFIED="1573791644954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/crawler/response" />
   </component>
@@ -630,16 +628,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Basic library/urllib/error.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
-          <folding>
-            <element signature="e#0#32#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/修饰符.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -722,25 +710,98 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Basic library/requests/advanced usage/Agent.py">
+    <entry file="file://$PROJECT_DIR$/Basic library/urllib/error.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="6" column="56" selection-start-line="6" selection-end-line="6" selection-end-column="56" />
+        <state relative-caret-position="324">
+          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Basic library/Regular/findall.py">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/Basic library/requests/advanced usage/Agent.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="7" column="13" lean-forward="true" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basic library/Regular/sub.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basic library/maoyan.py" />
+    <entry file="file://$PROJECT_DIR$/Basic library/Regular/compile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="2" column="27" lean-forward="true" selection-start-line="2" selection-end-line="2" selection-end-column="27" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Basic library/Regular/search.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="18" column="83" selection-start-line="18" selection-start-column="83" selection-end-line="18" selection-end-column="83" />
+        <state relative-caret-position="429">
+          <caret line="15" column="1" selection-start-line="8" selection-end-line="15" selection-end-column="1" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basic library/Regular/findall.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="17" column="19" lean-forward="true" selection-start-line="17" selection-end-line="17" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basic library/maoyan/get_one_page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="29" column="24" lean-forward="true" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basic library/maoyan/parse_one_page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="6" column="16" lean-forward="true" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basic library/maoyan/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="9" column="20" lean-forward="true" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basic library/Beautiful Soup/link.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1872">
+          <caret line="52" column="32" selection-start-line="52" selection-start-column="32" selection-end-line="52" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basic library/Beautiful Soup/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="21" column="33" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basic library/Beautiful Soup/find_all.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">
