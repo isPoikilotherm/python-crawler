@@ -2,8 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ba77ae5b-a9ca-4d17-9e31-8e1fb7a284a3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/SaveData/MySQL_Select.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SaveData/MySQL_Update.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SaveData/MongoDB_Count.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SaveData/MongoDB_Insert.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SaveData/MongoDB_Select.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SaveData/MongoDB_Skip.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SaveData/MongoDB_Sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SaveData/MongoDB_UpData.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SaveData/MongoDB功能符号.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SaveData/MongoDB比较符号.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,28 +21,68 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SaveData/MySQL_Update.py">
+        <entry file="file://$PROJECT_DIR$/SaveData/MongoDB_Insert.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="3" column="18" lean-forward="true" selection-end-line="3" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/SaveData/MySQL_Select.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="178">
-              <caret line="9" column="21" lean-forward="true" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+            <state relative-caret-position="144">
+              <caret line="4" column="22" lean-forward="true" selection-end-line="4" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SaveData/MySQL_Insert.py">
+        <entry file="file://$PROJECT_DIR$/SaveData/MongoDB_Select.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="232">
-              <caret line="18" selection-start-line="18" selection-end-line="37" />
+            <state relative-caret-position="231">
+              <caret line="15" column="18" lean-forward="true" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+              <folding>
+                <element signature="e#0#14#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SaveData/MongoDB功能符号.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SaveData/MongoDB比较符号.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SaveData/MongoDB_Count.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="4" column="22" lean-forward="true" selection-end-line="4" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SaveData/MongoDB_Sort.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="8" column="19" lean-forward="true" selection-start-line="5" selection-end-line="6" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SaveData/MongoDB_Skip.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="4" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SaveData/MongoDB_UpData.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="8" column="22" lean-forward="true" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -56,13 +102,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/tools/parse_qsl.py" />
-        <option value="$PROJECT_DIR$/tools/quote.py" />
-        <option value="$PROJECT_DIR$/tools/unquote.py" />
-        <option value="$PROJECT_DIR$/tools/requests.py" />
-        <option value="$PROJECT_DIR$/tools/requests1.py" />
-        <option value="$PROJECT_DIR$/crawler/requests2.py" />
-        <option value="$PROJECT_DIR$/crawler/image.py" />
         <option value="$PROJECT_DIR$/crawler/text.py" />
         <option value="$PROJECT_DIR$/crawler/post/post1.py" />
         <option value="$PROJECT_DIR$/crawler/response/jianshu.py" />
@@ -107,10 +146,17 @@
         <option value="$PROJECT_DIR$/SaveData/MySQL_Update.py" />
         <option value="$PROJECT_DIR$/SaveData/MySQL_Delete.py" />
         <option value="$PROJECT_DIR$/SaveData/MySQL_Select.py" />
+        <option value="$PROJECT_DIR$/SaveData/MongoDB_Connect.py" />
+        <option value="$PROJECT_DIR$/SaveData/MongoDB_Insert.py" />
+        <option value="$PROJECT_DIR$/SaveData/MongoDB_Count.py" />
+        <option value="$PROJECT_DIR$/SaveData/MongoDB_Sort.py" />
+        <option value="$PROJECT_DIR$/SaveData/MongoDB_Skip.py" />
+        <option value="$PROJECT_DIR$/SaveData/MongoDB_UpData.py" />
+        <option value="$PROJECT_DIR$/SaveData/MongoDB_Select.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="width" value="1920" />
     <option name="height" value="1080" />
   </component>
@@ -122,6 +168,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -143,30 +190,30 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Basic library/pyquery" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/SaveData" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="Console" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/SaveData" />
+      <recent name="$PROJECT_DIR$/Basic library/pyquery" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/Basic library/urllib" />
+      <recent name="$PROJECT_DIR$/crawler/response" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Analysis" />
       <recent name="$PROJECT_DIR$/Basic library/requests" />
       <recent name="$PROJECT_DIR$/Basic library/urllib" />
       <recent name="$PROJECT_DIR$/Basic library" />
       <recent name="$PROJECT_DIR$" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Basic library/pyquery" />
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/Basic library/urllib" />
-      <recent name="$PROJECT_DIR$/crawler/response" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -181,8 +228,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.MySQL_Select">
-    <configuration name="MySQL" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.MongoDB_Select">
+    <configuration name="MongoDB_Count" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python crawler" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -195,7 +242,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SaveData/MySQL_Creat_Base.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SaveData/MongoDB_Count.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -204,7 +251,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="MySQL_Creat_Table" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="MongoDB_Select" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python crawler" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -217,7 +264,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SaveData/MySQL_Creat_Table.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SaveData/MongoDB_Select.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -226,7 +273,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="MySQL_Insert" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="MongoDB_Skip" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python crawler" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -239,7 +286,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SaveData/MySQL_Insert.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SaveData/MongoDB_Skip.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -248,7 +295,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="MySQL_Select" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="MongoDB_Sort" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python crawler" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -261,7 +308,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SaveData/MySQL_Select.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SaveData/MongoDB_Sort.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -270,7 +317,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="MySQL_Update" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="MongoDB_UpData" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python crawler" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -283,7 +330,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SaveData/MySQL_Update.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SaveData/MongoDB_UpData.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -294,11 +341,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.MySQL_Select" />
-        <item itemvalue="Python.MySQL_Update" />
-        <item itemvalue="Python.MySQL_Insert" />
-        <item itemvalue="Python.MySQL_Creat_Table" />
-        <item itemvalue="Python.MySQL" />
+        <item itemvalue="Python.MongoDB_Select" />
+        <item itemvalue="Python.MongoDB_UpData" />
+        <item itemvalue="Python.MongoDB_Skip" />
+        <item itemvalue="Python.MongoDB_Sort" />
+        <item itemvalue="Python.MongoDB_Count" />
       </list>
     </recent_temporary>
   </component>
@@ -330,7 +377,8 @@
       <workItem from="1574941969972" duration="4325000" />
       <workItem from="1575005354020" duration="4259000" />
       <workItem from="1575082438732" duration="10997000" />
-      <workItem from="1575116577929" duration="2388000" />
+      <workItem from="1575116577929" duration="2402000" />
+      <workItem from="1575262700308" duration="5900000" />
     </task>
     <task id="LOCAL-00001" summary="ddd">
       <created>1573458025211</created>
@@ -413,18 +461,18 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="127775000" />
+    <option name="totallyTimeSpent" value="133689000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15651709" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15811966" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.4994664" weight="0.09284116" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.6045891" visible="true" weight="0.37579617" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.6045891" visible="true" weight="0.43418258" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49893278" weight="0.19127516" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -477,8 +525,10 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/python_crawler$image.coverage" NAME="image Coverage Results" MODIFIED="1573737646007" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/crawler" />
     <SUITE FILE_PATH="coverage/python_crawler$MySQL.coverage" NAME="MySQL Coverage Results" MODIFIED="1575089087495" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SaveData" />
+    <SUITE FILE_PATH="coverage/python_crawler$MongoDB_Count.coverage" NAME="MongoDB_Count Coverage Results" MODIFIED="1575268729333" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SaveData" />
     <SUITE FILE_PATH="coverage/python_crawler$parse_qsl.coverage" NAME="parse_qsl Coverage Results" MODIFIED="1573651148145" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tools" />
     <SUITE FILE_PATH="coverage/python_crawler$pyquery_base.coverage" NAME="pyquery_base Coverage Results" MODIFIED="1574252153206" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic library/pyquery" />
+    <SUITE FILE_PATH="coverage/python_crawler$MongoDB_UpData.coverage" NAME="MongoDB_UpData Coverage Results" MODIFIED="1575274938690" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SaveData" />
     <SUITE FILE_PATH="coverage/python_crawler$requests2.coverage" NAME="requests2 Coverage Results" MODIFIED="1573737393350" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/crawler" />
     <SUITE FILE_PATH="coverage/python_crawler$urlunparse.coverage" NAME="urlunparse Coverage Results" MODIFIED="1573647358595" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tools" />
     <SUITE FILE_PATH="coverage/python_crawler$base_CSS.coverage" NAME="base_CSS Coverage Results" MODIFIED="1574756921098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic library/pyquery" />
@@ -490,6 +540,7 @@
     <SUITE FILE_PATH="coverage/python_crawler$findall.coverage" NAME="findall Coverage Results" MODIFIED="1574078940099" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic library/Regular" />
     <SUITE FILE_PATH="coverage/python_crawler$MySQL_Creat_Table.coverage" NAME="MySQL_Creat_Table Coverage Results" MODIFIED="1575090499526" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SaveData" />
     <SUITE FILE_PATH="coverage/python_crawler$match.coverage" NAME="match Coverage Results" MODIFIED="1573803452988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic library/Regular" />
+    <SUITE FILE_PATH="coverage/python_crawler$MongoDB_Select.coverage" NAME="MongoDB_Select Coverage Results" MODIFIED="1575274995031" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SaveData" />
     <SUITE FILE_PATH="coverage/python_crawler$quote.coverage" NAME="quote Coverage Results" MODIFIED="1573651282091" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tools" />
     <SUITE FILE_PATH="coverage/python_crawler$urlencode.coverage" NAME="urlencode Coverage Results" MODIFIED="1573650596820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tools" />
     <SUITE FILE_PATH="coverage/python_crawler$test.coverage" NAME="test Coverage Results" MODIFIED="1573629003004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -499,6 +550,8 @@
     <SUITE FILE_PATH="coverage/python_crawler$requests.coverage" NAME="requests Coverage Results" MODIFIED="1573737451078" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tools" />
     <SUITE FILE_PATH="coverage/python_crawler$SSL.coverage" NAME="SSL Coverage Results" MODIFIED="1573797077085" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/advanced usage" />
     <SUITE FILE_PATH="coverage/python_crawler$Prepared_Request.coverage" NAME="Prepared Request Coverage Results" MODIFIED="1573800501570" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/advanced usage" />
+    <SUITE FILE_PATH="coverage/python_crawler$MongoDB_Insert.coverage" NAME="MongoDB_Insert Coverage Results" MODIFIED="1575266510385" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SaveData" />
+    <SUITE FILE_PATH="coverage/python_crawler$MongoDB_Skip.coverage" NAME="MongoDB_Skip Coverage Results" MODIFIED="1575274543170" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SaveData" />
     <SUITE FILE_PATH="coverage/python_crawler$daili.coverage" NAME="daili Coverage Results" MODIFIED="1573737432330" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tools" />
     <SUITE FILE_PATH="coverage/python_crawler$search.coverage" NAME="search Coverage Results" MODIFIED="1574078661744" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic library/Regular" />
     <SUITE FILE_PATH="coverage/python_crawler$jianshu.coverage" NAME="jianshu Coverage Results" MODIFIED="1573791644954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/crawler/response" />
@@ -513,6 +566,7 @@
     <SUITE FILE_PATH="coverage/python_crawler$Node_Operation.coverage" NAME="Node_Operation Coverage Results" MODIFIED="1574944113777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic library/pyquery" />
     <SUITE FILE_PATH="coverage/python_crawler$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1574142856526" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic library/maoyan" />
     <SUITE FILE_PATH="coverage/python_crawler$unquote.coverage" NAME="unquote Coverage Results" MODIFIED="1573737447165" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tools" />
+    <SUITE FILE_PATH="coverage/python_crawler$MongoDB_Sort.coverage" NAME="MongoDB_Sort Coverage Results" MODIFIED="1575274370748" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SaveData" />
     <SUITE FILE_PATH="coverage/python_crawler$urlsplit.coverage" NAME="urlsplit Coverage Results" MODIFIED="1573801570669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic library/urllib" />
     <SUITE FILE_PATH="coverage/python_crawler$find_all.coverage" NAME="find_all Coverage Results" MODIFIED="1574240408616" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic library/Beautiful Soup" />
     <SUITE FILE_PATH="coverage/python_crawler$parse_qs.coverage" NAME="parse_qs Coverage Results" MODIFIED="1573651139082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tools" />
@@ -526,61 +580,6 @@
     <SUITE FILE_PATH="coverage/python_crawler$urlunsplit.coverage" NAME="urlunsplit Coverage Results" MODIFIED="1573648718079" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tools" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Basic library/urllib/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="4" column="90" lean-forward="true" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="90" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Basic library/urllib/quote.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="21" lean-forward="true" selection-start-column="21" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Basic library/urllib/parse_qsl.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Basic library/urllib/daili.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="6" column="2" lean-forward="true" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
-          <folding>
-            <element signature="e#0#33#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Basic library/urllib/Cookies.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="7" column="12" lean-forward="true" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/修饰符.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Basic library/Regular/match.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="830">
-          <caret line="25" column="61" selection-start-line="25" selection-start-column="61" selection-end-line="25" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Basic library/requests/get/requests1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="6" column="15" lean-forward="true" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Basic library/requests/advanced usage/file.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
@@ -886,6 +885,41 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SaveData/CSV.py" />
+    <entry file="file://$PROJECT_DIR$/SaveData/MySQL_Update.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="3" column="18" selection-end-line="3" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SaveData/MySQL_Select.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="16" column="18" lean-forward="true" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SaveData/MySQL_Insert.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="18" selection-start-line="18" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SaveData/MongoDB_Insert.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="4" column="22" lean-forward="true" selection-end-line="4" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SaveData/MongoDB_Sort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="8" column="19" lean-forward="true" selection-start-line="5" selection-end-line="6" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/SaveData/MySQL_Creat_Table.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
@@ -900,26 +934,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SaveData/MySQL_Insert.py">
+    <entry file="file://$PROJECT_DIR$/SaveData/MongoDB_Skip.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="18" selection-start-line="18" selection-end-line="37" />
+        <state>
+          <caret selection-end-line="4" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SaveData/MySQL_Update.py">
+    <entry file="file://$PROJECT_DIR$/SaveData/MongoDB_UpData.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="3" column="18" lean-forward="true" selection-end-line="3" selection-end-column="18" />
+        <state relative-caret-position="288">
+          <caret line="8" column="22" lean-forward="true" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SaveData/MySQL_Select.py">
+    <entry file="file://$PROJECT_DIR$/SaveData/MongoDB_Count.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
-          <caret line="9" column="21" lean-forward="true" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+        <state relative-caret-position="144">
+          <caret line="4" column="22" lean-forward="true" selection-end-line="4" selection-end-column="22" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SaveData/MongoDB_Select.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="15" column="18" lean-forward="true" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SaveData/MongoDB比较符号.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SaveData/MongoDB功能符号.png">
+      <provider selected="true" editor-type-id="images" />
     </entry>
   </component>
   <component name="masterDetails">
