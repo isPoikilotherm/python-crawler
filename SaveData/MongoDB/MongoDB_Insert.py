@@ -1,0 +1,32 @@
+import pymongo
+
+client=pymongo.MongoClient(host='localhost',port=27017)
+db=client.test
+collection=db.students
+student_1={
+    'id':'193131311',
+    'name':'艾文宇',
+    'age':22,
+    'gender':'male'
+}
+student_2={
+    'id':'193131312',
+    'name':'韩永亮',
+    'age':21,
+    'gender':'male'
+}
+student_3={
+    'id':'193131313',
+    'name':'敖吉',
+    'age':20,
+    'gender':'male'
+}
+student_4={
+    'id':'193131314',
+    'name':'杨柳',
+    'age':19,
+    'gender':'male'
+}
+result=collection.insert_many([student_1,student_2,student_3,student_4])#只插入一条使用insert_one（）
+print(result)
+print(result.inserted_ids)#调用inserted_ids属性获取插入数据的_id列表
