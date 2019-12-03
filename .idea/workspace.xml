@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ba77ae5b-a9ca-4d17-9e31-8e1fb7a284a3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Ajax/toutiao_image.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ajax/weibo.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SaveData/MongoDB/MongoDB_Select.py" beforeDir="false" afterPath="$PROJECT_DIR$/SaveData/MongoDB/MongoDB_Select.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ajax/toutiao_image.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ajax/toutiao_image.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,28 +13,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Ajax/weibo.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Ajax/toutiao_image.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="6" selection-start-line="6" selection-end-line="11" selection-end-column="1" />
-              <folding>
-                <element signature="e#0#33#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="401">
+              <caret line="51" column="27" selection-start-line="51" selection-start-column="27" selection-end-line="51" selection-end-column="27" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Ajax/toutiao_image.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
-              <folding>
-                <element signature="e#0#15#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/黄磊夫妇走机场，一身699情侣装太接地气，三娃妈孙莉素颜好少女/1d0e0e5124a6cc99f5372724fb03555d.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/安静的女孩子！我都喜欢/1a1dc9be2c65e79070071d5118f41e3d.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/安静的女孩子！我都喜欢/3a5abf1772f887e7170916c1b5eb4ee8.jpg">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
     </leaf>
@@ -47,6 +45,16 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/Ajax/41岁胡杏儿晒闺蜜合影，名气最高稳坐C位，姐妹身材惊艳太抢镜</dir>
+      <dir>$PROJECT_DIR$/Ajax</dir>
+      <dir>$PROJECT_DIR$/images</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -108,7 +116,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="width" value="1920" />
     <option name="height" value="1080" />
   </component>
@@ -136,13 +144,19 @@
             <path>
               <item name="python crawler" type="b2602c69:ProjectViewProjectNode" />
               <item name="python crawler" type="462c0819:PsiDirectoryNode" />
-              <item name="SaveData" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="python crawler" type="b2602c69:ProjectViewProjectNode" />
               <item name="python crawler" type="462c0819:PsiDirectoryNode" />
-              <item name="SaveData" type="462c0819:PsiDirectoryNode" />
-              <item name="MongoDB" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+              <item name="安静的女孩子！我都喜欢" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python crawler" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python crawler" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+              <item name="黄磊夫妇走机场，一身699情侣装太接地气，三娃妈孙莉素颜好少女" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -186,7 +200,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.MongoDB_Select">
+  <component name="RunManager" selected="Python.toutiao_image">
     <configuration name="MongoDB_Delete" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python crawler" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -201,28 +215,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SaveData/MongoDB/MongoDB_Delete.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="MongoDB_Insert" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python crawler" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SaveData" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SaveData/MongoDB/MongoDB_Insert.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -275,6 +267,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="toutiao_image" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python crawler" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ajax" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ajax/toutiao_image.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="weibo" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python crawler" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -299,11 +313,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.toutiao_image" />
         <item itemvalue="Python.MongoDB_Select" />
         <item itemvalue="Python.weibo" />
         <item itemvalue="Python.Redis_Connect" />
         <item itemvalue="Python.MongoDB_Delete" />
-        <item itemvalue="Python.MongoDB_Insert" />
       </list>
     </recent_temporary>
   </component>
@@ -337,7 +351,7 @@
       <workItem from="1575082438732" duration="10997000" />
       <workItem from="1575116577929" duration="2402000" />
       <workItem from="1575262700308" duration="6105000" />
-      <workItem from="1575346947547" duration="13384000" />
+      <workItem from="1575346947547" duration="16787000" />
     </task>
     <task id="LOCAL-00001" summary="ddd">
       <created>1573458025211</created>
@@ -420,18 +434,18 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="147278000" />
+    <option name="totallyTimeSpent" value="150681000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
+    <frame x="0" y="0" width="1920" height="1080" extended-state="1" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14797008" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24893162" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.4994664" weight="0.09284116" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.6045891" visible="true" weight="0.19639066" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.6045891" visible="true" weight="0.23354565" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49893278" weight="0.1910828" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -503,6 +517,7 @@
     <SUITE FILE_PATH="coverage/python_crawler$link.coverage" NAME="link Coverage Results" MODIFIED="1574241709827" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic library/Beautiful Soup" />
     <SUITE FILE_PATH="coverage/python_crawler$Node_Operation.coverage" NAME="Node_Operation Coverage Results" MODIFIED="1574944113777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic library/pyquery" />
     <SUITE FILE_PATH="coverage/python_crawler$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1574142856526" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic library/maoyan" />
+    <SUITE FILE_PATH="coverage/python_crawler$toutiao_image.coverage" NAME="toutiao_image Coverage Results" MODIFIED="1575374557194" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ajax" />
     <SUITE FILE_PATH="coverage/python_crawler$unquote.coverage" NAME="unquote Coverage Results" MODIFIED="1573737447165" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tools" />
     <SUITE FILE_PATH="coverage/python_crawler$MongoDB_Sort.coverage" NAME="MongoDB_Sort Coverage Results" MODIFIED="1575274370748" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SaveData" />
     <SUITE FILE_PATH="coverage/python_crawler$urlsplit.coverage" NAME="urlsplit Coverage Results" MODIFIED="1573801570669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic library/urllib" />
@@ -519,225 +534,6 @@
     <SUITE FILE_PATH="coverage/python_crawler$urlunsplit.coverage" NAME="urlunsplit Coverage Results" MODIFIED="1573648718079" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tools" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Basic library/Regular/findall.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="17" column="19" lean-forward="true" selection-start-line="17" selection-end-line="17" selection-end-column="19" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Basic library/maoyan/get_one_page.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="87">
-          <caret line="29" column="24" lean-forward="true" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Basic library/maoyan/parse_one_page.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="6" column="16" lean-forward="true" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Basic library/maoyan/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="9" column="20" lean-forward="true" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Analysis/Beautiful Soup/find_all.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="52" column="33" lean-forward="true" selection-start-line="52" selection-start-column="2" selection-end-line="52" selection-end-column="33" />
-          <folding>
-            <element signature="e#5#360#0" />
-            <element signature="e#367#737#0" />
-            <element signature="e#744#923#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Analysis/Beautiful Soup/link.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="890">
-          <caret line="52" column="12" selection-start-line="52" selection-start-column="11" selection-end-line="52" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Analysis/Beautiful Soup/find.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="17" selection-end-column="3" />
-          <folding>
-            <element signature="e#5#360#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Analysis/Beautiful Soup/CSS.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="48" column="30" lean-forward="true" selection-start-line="48" selection-start-column="30" selection-end-line="48" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/lib/python3.5/site-packages/pyquery/pyquery.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="124">
-          <caret line="213" column="12" lean-forward="true" selection-start-line="213" selection-start-column="12" selection-end-line="213" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Analysis/Beautiful Soup/base.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="756">
-          <caret line="21" column="33" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Analysis/pyquery/demo.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Analysis/pyquery/GetInfo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="13" selection-start-line="13" selection-end-line="14" />
-          <folding>
-            <element signature="e#6#408#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SaveData/Txt.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="792">
-          <caret line="22" column="16" lean-forward="true" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SaveData/zhaopin1.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="844">
-          <caret line="51" column="20" selection-start-line="51" selection-start-column="20" selection-end-line="51" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SaveData/zhaopin.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="844">
-          <caret line="104" column="25" selection-start-line="104" selection-start-column="25" selection-end-line="104" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Analysis/pyquery/Pseudo_Type_Selector.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
-          <folding>
-            <element signature="e#6#408#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Analysis/pyquery/base_CSS.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="25" selection-start-line="25" selection-end-line="26" selection-end-column="12" />
-          <folding>
-            <element signature="e#6#382#0" />
-            <element signature="e#390#792#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Analysis/pyquery/bianli.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="10" selection-end-column="3" />
-          <folding>
-            <element signature="e#6#382#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Analysis/pyquery/Node_Operation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="482">
-          <caret line="55" column="9" selection-start-line="55" selection-start-column="9" selection-end-line="55" selection-end-column="9" />
-          <folding>
-            <element signature="e#6#408#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Analysis/pyquery/pyquery_base.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="676">
-          <caret line="30" column="16" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="16" />
-          <folding>
-            <element signature="e#357#390#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SaveData/data.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SaveData/data2.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SaveData/Json.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="37" column="5" lean-forward="true" selection-start-line="37" selection-start-column="5" selection-end-line="37" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SaveData/CSV.py" />
-    <entry file="file://$PROJECT_DIR$/SaveData/MySQL/MySQL_Update.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="3" column="18" selection-end-line="3" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SaveData/MySQL/MySQL_Select.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="576">
-          <caret line="16" column="18" lean-forward="true" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SaveData/MySQL/MySQL_Insert.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="18" selection-start-line="18" selection-end-line="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/SaveData/MySQL/MySQL_Creat_Table.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
@@ -857,13 +653,91 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Ajax/2019年8月热门街拍合辑，17个总有你喜欢的美女/70f54864028d5a6f02229c1dbee2093d.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ajax/Jessica&amp;Krystal 机场街拍/a16f1d4c425e790e3d91eb61e687ceff.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ajax/三里屯街拍，寒冷冬季搭配选择，大衣和羽绒服你会怎么选？/dba136d1fad29efff2579cddd97e2212.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ajax/三里屯街拍，极品身材妹子夜晚来拍照，这腿太让人眼红了/624926b996509ceb41f348056337d813.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ajax/三里屯街拍：在最美的秋天，穿衣搭配时尚悦目的美女真不少/5d4316b0f732ed53248fbc4696ef0ed7.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ajax/街拍，一波超级美女来袭，别怪我没告诉你/771b1f94299d4a601da2d9ca7bdfc0b1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ajax/街拍：偶遇高跟丝袜美女路边玩自拍，随便拍了几张/2f041bfb9cc5c230ca8225081a7cf7c3.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ajax/街拍：偶遇高跟丝袜美女路边玩自拍，随便拍了几张/6fe7eba2356b12107b2fad23bb053968.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ajax/街拍：偶遇高跟丝袜美女路边玩自拍，随便拍了几张/67859b958677dcf29d460408b4d7418f.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ajax/街拍：偶遇高跟丝袜美女路边玩自拍，随便拍了几张/f8525360478ddaa8d1e4215cd5669249.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ajax/韩国小花旦张元英街拍，一双大长腿1米8，把长裤穿成了九分裤/5b31b827a25bc4c78eff20206793fcc4.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ajax/韩国小花旦张元英街拍，一双大长腿1米8，把长裤穿成了九分裤/235c4f9f4d289461307128d458e5b300.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ajax/韩国小花旦张元英街拍，一双大长腿1米8，把长裤穿成了九分裤/c845f36e3ee5136ff9fb913ecb6211b1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ajax/青春活力型街拍/2a025024cbce3cc1be44bc9a08b800ae.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ajax/青春活力型街拍/6f303360343c78580116052e83dd138e.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ajax/青春活力型街拍/90d93eed7e23fb3f59209bf2af852305.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ajax/青春活力型街拍/479e9ad9ed1b64300cb38f2f298dd11c.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ajax/时尚达人们的高清街拍图/5a189a94e703f43aeb4d91b62ddb859b.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ajax/41岁胡杏儿晒闺蜜合影，名气最高稳坐C位，姐妹身材惊艳太抢镜/2063136997c9de3ec0baa1e76cf6be29.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ajax/41岁胡杏儿晒闺蜜合影，名气最高稳坐C位，姐妹身材惊艳太抢镜/af8fc8185672081412dac7a8d1c9bc5e.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ajax/41岁胡杏儿晒闺蜜合影，名气最高稳坐C位，姐妹身材惊艳太抢镜/c1f1f27798e24289cf7db85b0294e484.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ajax/42岁范晓萱太惊艳，同框00后Cindy秀美腿，差20多岁像同龄人/5bd5f0bd6374c93653d57e298c222d73.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ajax/42岁范晓萱太惊艳，同框00后Cindy秀美腿，差20多岁像同龄人/36879c8caf69224420ef01d5455a2ce6.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ajax/42岁范晓萱太惊艳，同框00后Cindy秀美腿，差20多岁像同龄人/e932ff11dfd1e44e31fec3ba7243e32d.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/黄磊夫妇走机场，一身699情侣装太接地气，三娃妈孙莉素颜好少女/1d0e0e5124a6cc99f5372724fb03555d.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/安静的女孩子！我都喜欢/1a1dc9be2c65e79070071d5118f41e3d.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/安静的女孩子！我都喜欢/3a5abf1772f887e7170916c1b5eb4ee8.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/Ajax/toutiao_image.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="401">
+          <caret line="51" column="27" selection-start-line="51" selection-start-column="27" selection-end-line="51" selection-end-column="27" />
         </state>
       </provider>
     </entry>
