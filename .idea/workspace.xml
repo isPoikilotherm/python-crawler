@@ -2,9 +2,66 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ba77ae5b-a9ca-4d17-9e31-8e1fb7a284a3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/baiduwenku.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xxx.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novel.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baiduwenku.py" beforeDir="false" afterPath="$PROJECT_DIR$/baiduwenku.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Angelababy、迪丽热巴cos艾莎，只要紫色眼影+芭比粉口红+雀斑妆/8241e5b99f9632e711982cda0db6da8c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/TOPMEN街拍丨休闲、复古、绅装，你最喜欢哪个造型？/760d9b61bdd5579a6f5e1a9557f49dc4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/TOPMEN街拍丨休闲、复古、绅装，你最喜欢哪个造型？/ac78c0ee5b9664132233bf019a0be6d0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/TOPMEN街拍丨休闲、复古、绅装，你最喜欢哪个造型？/dc2d37b8d0f76bb717a02d29ac8f7580.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/【摄影超有趣】10分钟学会5个大神们的街拍秘籍/8b6994647fabd600d5044643a189d036.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/冬季用一双马丁靴，带你穿出时尚的街拍感/940699cefb504e3c559616c162e83265.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/冬季用一双马丁靴，带你穿出时尚的街拍感/c29ecaa5ea07f0d3caad147270f6fc0a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/冬季用一双马丁靴，带你穿出时尚的街拍感/f48fc3064be01180f860dd8ae9a439b8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/和对象是怎么真正走到一起的？美女别遮了，都说出来了/914653db24b1e2653f17534a77f17e97.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/安静的女孩子！我都喜欢/1a1dc9be2c65e79070071d5118f41e3d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/安静的女孩子！我都喜欢/24a6df53c8a92092ecee94802ca3450f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/安静的女孩子！我都喜欢/3a5abf1772f887e7170916c1b5eb4ee8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/张柏芝独自走机场，40岁一身嫩粉穿搭好少女，全身行头10几万真壕/5909f9793b5d5d03d693686af4368eeb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/张柏芝独自走机场，40岁一身嫩粉穿搭好少女，全身行头10几万真壕/8018005515b093ffa53fb62968dbe394.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/张柏芝独自走机场，40岁一身嫩粉穿搭好少女，全身行头10几万真壕/b88c28f4df2b6de365ec15668575fc32.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/摄影：堪称极品的红裙子美女，太美了！​​​​/106afbbf98315ca39f89a9bfd4f5d848.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/摄影：堪称极品的红裙子美女，太美了！​​​​/6b62751327837caceb5e4b99e4c2ff25.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/摄影：堪称极品的红裙子美女，太美了！​​​​/88e5d3e03a3fc9b04b108f50c7643bd5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/摄影：堪称极品的红裙子美女，太美了！​​​​/ae3ab54e89e491cbeb3db6ea6d31501b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/李湘女儿近照曝光，10岁王诗龄一身富态好成熟，身材圆润太像爸妈/a3db7bbdb8471e46235b874569b8630f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/李湘女儿近照曝光，10岁王诗龄一身富态好成熟，身材圆润太像爸妈/bee1ddf2a83f3a5745cfc5d2fd4385d5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/李湘女儿近照曝光，10岁王诗龄一身富态好成熟，身材圆润太像爸妈/bf4d8b35386758815921f4a756c0f27a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/林志玲携老公婚后首登封面，富士山下白裙配黄昏，美人美景太养眼/9baa8f39bf7ad225b213a5a5f2497f88.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/林志玲携老公婚后首登封面，富士山下白裙配黄昏，美人美景太养眼/a52e9b03de18d0ad1e6dc16c259908e8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/林志玲携老公婚后首登封面，富士山下白裙配黄昏，美人美景太养眼/fe888b88afc65df966adcc5a75dab9bb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/直击唐嫣的街拍现场，褐色纱裙搭配小夹克，简简单单又帅气利落/4f1eb6aa77275aea8f0dfb3c246e5440.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/街拍摄影师镜头中的搞笑汪星人/27fc6744975849f8487cbf416f3d5057.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/街拍摄影师镜头中的搞笑汪星人/5582db1a2fc63e938ba5d3f49c62248f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/街拍摄影师镜头中的搞笑汪星人/cc75c83a046fc88d19a7f9a3cd229e36.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/街拍摄影师镜头中的搞笑汪星人/cef56d40d977506fc168c3a5038b8935.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/街拍：小姐姐丝绒紧身连衣裙穿搭显得优雅气质，曼妙身姿更吸引人/50aa97982c31a2997f771ebb821df962.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/街拍：小姐姐丝绒紧身连衣裙穿搭显得优雅气质，曼妙身姿更吸引人/5196cda4b189301150b39148e7b85535.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/街拍：小姐姐丝绒紧身连衣裙穿搭显得优雅气质，曼妙身姿更吸引人/5d4eb98aecd25ccee1983ab1906637c3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/街拍：小姐姐丝绒紧身连衣裙穿搭显得优雅气质，曼妙身姿更吸引人/effeec8780bfe2b73d9b61f691218055.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/街拍：美女身穿优雅大气的黑裙，塑造出的身材线条曼妙有型/4c0fdc07479ca85384f0b963e3c041db.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/街拍：美女身穿优雅大气的黑裙，塑造出的身材线条曼妙有型/7c67c10065b0150b78215187448d047b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/街拍：美女身穿优雅大气的黑裙，塑造出的身材线条曼妙有型/7cc7c3a830cf216c6381b684377f9165.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/街拍：美女身穿优雅大气的黑裙，塑造出的身材线条曼妙有型/f85a444e7e8785c44982d5e9923585e0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/贝嫂现身自家品牌店铺，西装衬衫“老板娘”范，163穿出173大气场/792efa91f2b68059ba05de25861d87cb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/贝嫂现身自家品牌店铺，西装衬衫“老板娘”范，163穿出173大气场/9d259b5bf6b5e26098ca7a05b401078a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/贝嫂现身自家品牌店铺，西装衬衫“老板娘”范，163穿出173大气场/cf5148f891566825e04a2b2556ec8f30.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/这身材这颜值，能给多少分？/9dd5d23540e007b4670cbcc5706bb39b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/这身材这颜值，能给多少分？/9ffdff4559bbc54ec5fe0044363a6d32.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/这身材这颜值，能给多少分？/d8bee32814bb04f666d1cdf2c3522c84.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/都市丽人的冬季穿搭模板，你的时髦之选，无论怎么穿都非常好看/38467a655cfda0fd59408adad7b780dc.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/都市丽人的冬季穿搭模板，你的时髦之选，无论怎么穿都非常好看/453532d7367af584af1239c9540e5887.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/都市丽人的冬季穿搭模板，你的时髦之选，无论怎么穿都非常好看/b34d2d9ad4a859d6ce2ad1a249c23324.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/都市丽人的冬季穿搭模板，你的时髦之选，无论怎么穿都非常好看/c1b5ce7557967f6b52f974c468a8bb18.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/陶虹携女现身，11岁徐小宝穿9900羽绒服星二代范，母女黑红配抢镜/00179619ae67e7d76cdde432d6e6059a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/陶虹携女现身，11岁徐小宝穿9900羽绒服星二代范，母女黑红配抢镜/2bcb304c793fc46ae2a3d73df4bb5c1c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/陶虹携女现身，11岁徐小宝穿9900羽绒服星二代范，母女黑红配抢镜/d02cbca076e11478a487e8b81c2156e3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/马蓉携女儿直播，梳空气刘海打扮好甜美，鸽子蛋钻戒大的直往下掉/34c12d5c337d7c5f8f00eb24b3b9fb87.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/马蓉携女儿直播，梳空气刘海打扮好甜美，鸽子蛋钻戒大的直往下掉/5def96298b1ec83666a384669375ea9b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/马蓉携女儿直播，梳空气刘海打扮好甜美，鸽子蛋钻戒大的直往下掉/f95660f8332809a61a6e7d4a435c8eb4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/黄磊夫妇走机场，一身699情侣装太接地气，三娃妈孙莉素颜好少女/1d0e0e5124a6cc99f5372724fb03555d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/黄磊夫妇走机场，一身699情侣装太接地气，三娃妈孙莉素颜好少女/b52b62b737be9a033d427adb29140ff3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/黄磊夫妇走机场，一身699情侣装太接地气，三娃妈孙莉素颜好少女/f13c1e5fc6689e40c49935a60715f6fa.jpg" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,22 +86,22 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/baiduwenku.py">
+        <entry file="file://$PROJECT_DIR$/SaveData/Txt.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="558">
-              <caret line="15" column="48" selection-start-line="15" selection-start-column="48" selection-end-line="15" selection-end-column="48" />
+            <state relative-caret-position="576">
+              <caret line="22" column="16" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
               <folding>
-                <element signature="e#0#30#0" expanded="true" />
+                <element signature="e#0#15#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/xxx.py">
+        <entry file="file://$PROJECT_DIR$/novel.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-3673">
-              <caret line="7" column="11" lean-forward="true" selection-end-line="121" selection-end-column="17" />
+            <state relative-caret-position="378">
+              <caret line="23" column="25" lean-forward="true" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
@@ -53,58 +110,62 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/卷积神经网络  论文版.txt">
+        <entry file="file://$PROJECT_DIR$/text.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="9" column="15" lean-forward="true" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
+            <state relative-caret-position="6400">
+              <caret line="626" selection-start-line="626" selection-end-line="626" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/img/算法及算法的表示1.jpg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/img/算法及算法的表示2.jpg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/img/算法及算法的表示4.jpg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/img/算法及算法的表示3.jpg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/img/算法及算法的表示5.jpg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Selenium/__init__.py">
+        <entry file="file://$PROJECT_DIR$/Analysis/Beautiful Soup/find_all.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="16" column="29" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="29" />
+            <state>
+              <caret line="51" column="19" selection-start-line="51" selection-start-column="19" selection-end-line="51" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Analysis/pyquery/pyquery_base.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-540" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Basic library/maoyan/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
               <folding>
-                <element signature="e#0#30#0" expanded="true" />
+                <element signature="e#0#19#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Selenium/Activety.py">
+        <entry file="file://$PROJECT_DIR$/Basic library/maoyan/get_one_page.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="5" column="37" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="37" />
+            <state relative-caret-position="481">
+              <caret line="30" column="15" selection-start-line="30" selection-start-column="15" selection-end-line="30" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Basic library/maoyan/parse_one_page.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Basic library/Regular/search.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="229">
+              <caret line="19" column="10" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
               <folding>
-                <element signature="e#0#30#0" expanded="true" />
+                <element signature="e#0#15#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -140,8 +201,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Basic library/Beautiful Soup/base.py" />
-        <option value="$PROJECT_DIR$/Basic library/Beautiful Soup/link.py" />
         <option value="$PROJECT_DIR$/Basic library/Beautiful Soup/find_all.py" />
         <option value="$PROJECT_DIR$/Basic library/Beautiful Soup/find.py" />
         <option value="$PROJECT_DIR$/Basic library/Beautiful Soup/CSS.py" />
@@ -189,8 +248,10 @@
         <option value="$PROJECT_DIR$/Selenium/xuanxiangka.py" />
         <option value="$PROJECT_DIR$/Selenium/Try---Except.py" />
         <option value="$PROJECT_DIR$/1.py" />
-        <option value="$PROJECT_DIR$/baiduwenku.py" />
         <option value="$PROJECT_DIR$/xxx.py" />
+        <option value="$PROJECT_DIR$/baiduwenku.py" />
+        <option value="$PROJECT_DIR$/novel.py" />
+        <option value="$PROJECT_DIR$/都市虫皇.txt" />
       </list>
     </option>
   </component>
@@ -219,11 +280,6 @@
             <path>
               <item name="python crawler" type="b2602c69:ProjectViewProjectNode" />
               <item name="python crawler" type="462c0819:PsiDirectoryNode" />
-              <item name="Ajax" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python crawler" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python crawler" type="462c0819:PsiDirectoryNode" />
               <item name="Analysis" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -235,22 +291,18 @@
               <item name="python crawler" type="b2602c69:ProjectViewProjectNode" />
               <item name="python crawler" type="462c0819:PsiDirectoryNode" />
               <item name="Basic library" type="462c0819:PsiDirectoryNode" />
-              <item name="requests" type="462c0819:PsiDirectoryNode" />
+              <item name="maoyan" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="python crawler" type="b2602c69:ProjectViewProjectNode" />
               <item name="python crawler" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
+              <item name="Basic library" type="462c0819:PsiDirectoryNode" />
+              <item name="Regular" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="python crawler" type="b2602c69:ProjectViewProjectNode" />
               <item name="python crawler" type="462c0819:PsiDirectoryNode" />
-              <item name="Selenium" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python crawler" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python crawler" type="462c0819:PsiDirectoryNode" />
-              <item name="Splash" type="462c0819:PsiDirectoryNode" />
+              <item name="SaveData" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -294,7 +346,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.xxx">
+  <component name="RunManager" selected="Python.novel">
     <configuration name="1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python crawler" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -339,28 +391,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Try---Except" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python crawler" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Selenium" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Selenium/Try---Except.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="baiduwenku" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python crawler" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -375,6 +405,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baiduwenku.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="novel" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python crawler" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/novel.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -407,11 +459,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.novel" />
         <item itemvalue="Python.xxx" />
         <item itemvalue="Python.baiduwenku" />
         <item itemvalue="Python.Find_Elements" />
         <item itemvalue="Python.1" />
-        <item itemvalue="Python.Try---Except" />
       </list>
     </recent_temporary>
   </component>
@@ -453,7 +505,8 @@
       <workItem from="1575882393039" duration="7399000" />
       <workItem from="1576130005124" duration="6812000" />
       <workItem from="1576490785919" duration="864000" />
-      <workItem from="1576491913345" duration="8651000" />
+      <workItem from="1576491913345" duration="8711000" />
+      <workItem from="1577275923674" duration="3779000" />
     </task>
     <task id="LOCAL-00001" summary="ddd">
       <created>1573458025211</created>
@@ -560,22 +613,29 @@
       <option name="project" value="LOCAL" />
       <updated>1576146924939</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="ddd">
+      <created>1576500613251</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1576500613251</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="195361000" />
+    <option name="totallyTimeSpent" value="199200000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1" y="-1" width="1922" height="1082" extended-state="7" />
+    <frame x="-1" y="-1" width="1922" height="1082" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16435432" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2673426" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.4994664" weight="0.09284116" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.6040555" visible="true" weight="0.26165253" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.6040555" visible="true" weight="0.20338982" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49893278" weight="0.19067797" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -592,7 +652,7 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="SciView" order="3" />
       <window_info anchor="right" id="Coverage" order="4" side_tool="true" />
-      <window_info anchor="right" id="Database" order="5" weight="0.32977587" />
+      <window_info anchor="right" id="Database" order="5" side_tool="true" weight="0.32977587" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -628,6 +688,7 @@
     <SUITE FILE_PATH="coverage/python_crawler$MySQL_Creat_Table.coverage" NAME="MySQL_Creat_Table Coverage Results" MODIFIED="1575090499526" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SaveData" />
     <SUITE FILE_PATH="coverage/python_crawler$match.coverage" NAME="match Coverage Results" MODIFIED="1573803452988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic library/Regular" />
     <SUITE FILE_PATH="coverage/python_crawler$MongoDB_Select.coverage" NAME="MongoDB_Select Coverage Results" MODIFIED="1575362015458" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SaveData" />
+    <SUITE FILE_PATH="coverage/python_crawler$novel.coverage" NAME="novel Coverage Results" MODIFIED="1577279650154" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_crawler$tuozhuai.coverage" NAME="tuozhuai Coverage Results" MODIFIED="1575437985511" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Selenium" />
     <SUITE FILE_PATH="coverage/python_crawler$quote.coverage" NAME="quote Coverage Results" MODIFIED="1573651282091" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tools" />
     <SUITE FILE_PATH="coverage/python_crawler$urlencode.coverage" NAME="urlencode Coverage Results" MODIFIED="1573650596820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tools" />
@@ -682,43 +743,6 @@
     <SUITE FILE_PATH="coverage/python_crawler$urlunsplit.coverage" NAME="urlunsplit Coverage Results" MODIFIED="1573648718079" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tools" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Ajax/42岁范晓萱太惊艳，同框00后Cindy秀美腿，差20多岁像同龄人/5bd5f0bd6374c93653d57e298c222d73.jpg" />
-    <entry file="file://$PROJECT_DIR$/Ajax/42岁范晓萱太惊艳，同框00后Cindy秀美腿，差20多岁像同龄人/36879c8caf69224420ef01d5455a2ce6.jpg" />
-    <entry file="file://$PROJECT_DIR$/Ajax/42岁范晓萱太惊艳，同框00后Cindy秀美腿，差20多岁像同龄人/e932ff11dfd1e44e31fec3ba7243e32d.jpg" />
-    <entry file="file://$PROJECT_DIR$/images/黄磊夫妇走机场，一身699情侣装太接地气，三娃妈孙莉素颜好少女/1d0e0e5124a6cc99f5372724fb03555d.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/安静的女孩子！我都喜欢/1a1dc9be2c65e79070071d5118f41e3d.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/安静的女孩子！我都喜欢/3a5abf1772f887e7170916c1b5eb4ee8.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/lib/python3.5/site-packages/selenium/webdriver/remote/errorhandler.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="241" selection-start-line="241" selection-end-line="241" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Selenium/geckodriver.log" />
-    <entry file="file://$PROJECT_DIR$/SaveData/MongoDB/MongoDB_Insert.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-468" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SaveData/Txt.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-144">
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SaveData/Redis/Redis_Connect.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/SaveData/Redis/Redis列表操作（1）.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -728,25 +752,6 @@
     <entry file="file://$PROJECT_DIR$/Splash/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Analysis/Beautiful Soup/find.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-324" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Analysis/Beautiful Soup/find_all.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-108">
-          <caret line="64" column="39" lean-forward="true" selection-start-line="64" selection-start-column="39" selection-end-line="64" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Analysis/Beautiful Soup/base.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Analysis/Beautiful Soup/CSS.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
@@ -754,24 +759,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Analysis/pyquery/base_CSS.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Analysis/pyquery/pyquery_base.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Analysis/pyquery/GetInfo.py">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Analysis/pyquery/Node_Operation.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -781,9 +770,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Analysis/pyquery/bianli.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Analysis/pyquery/Pseudo_Type_Selector.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Analysis/pyquery/demo.html">
@@ -910,36 +896,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Selenium/Activety.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="5" column="37" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="37" />
-          <folding>
-            <element signature="e#0#30#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Selenium/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="16" column="29" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="29" />
-          <folding>
-            <element signature="e#0#30#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/baiduwenku.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="558">
-          <caret line="15" column="48" selection-start-line="15" selection-start-column="48" selection-end-line="15" selection-end-column="48" />
-          <folding>
-            <element signature="e#0#30#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/基于时域有限差分算法的手机天线辐射近场分析与仿真.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="432">
@@ -947,32 +903,178 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/算法及算法的表示5.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/img/算法及算法的表示1.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/img/算法及算法的表示2.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/img/算法及算法的表示4.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/img/算法及算法的表示3.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/算法及算法的表示4.jpg">
+    <entry file="file://$PROJECT_DIR$/img/算法及算法的表示5.jpg">
       <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Selenium/Activety.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="5" column="37" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/卷积神经网络  论文版.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
-          <caret line="9" column="15" lean-forward="true" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
+          <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Selenium/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="16" column="29" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/geckodriver.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/baiduwenku.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/xxx.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3673">
-          <caret line="7" column="11" lean-forward="true" selection-end-line="121" selection-end-column="17" />
+        <state relative-caret-position="-3174">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Analysis/pyquery/base_CSS.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="31" column="20" lean-forward="true" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Analysis/Beautiful Soup/find.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="15" column="6" lean-forward="true" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Analysis/Beautiful Soup/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="864">
+          <caret line="24" column="22" lean-forward="true" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SaveData/zhaopin.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Analysis/Beautiful Soup/link.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Analysis/pyquery/Pseudo_Type_Selector.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basic library/maoyan/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basic library/maoyan/get_one_page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="481">
+          <caret line="30" column="15" selection-start-line="30" selection-start-column="15" selection-end-line="30" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basic library/maoyan/parse_one_page.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basic library/Regular/search.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="19" column="10" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Analysis/Beautiful Soup/find_all.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="51" column="19" selection-start-line="51" selection-start-column="19" selection-end-line="51" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Analysis/pyquery/pyquery_base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-540" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SaveData/Txt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="22" column="16" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/text.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6400">
+          <caret line="626" selection-start-line="626" selection-end-line="626" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/都市虫皇.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-129536" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/novel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="23" column="25" lean-forward="true" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
