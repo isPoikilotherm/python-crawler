@@ -32,6 +32,7 @@ class YuYue():
                 tijiao = self.browser.find_element_by_xpath('//*[@id="book-status-list"]/tbody/tr[45]/td[2]/button')
                 self.browser.execute_script("arguments[0].click()", tijiao)
                 time.sleep(1)
+
                 print(time.strftime('%Y-%m-%d %H:%M:%S', time.localtime(time.time())))
                 self.browser.close()
 
