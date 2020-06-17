@@ -22,7 +22,7 @@ class YuYue():
                 self.browser.get(self.domain)
                 time.sleep(1)
                 self.browser.find_element_by_id('code').send_keys("193131314")
-                self.browser.find_element_by_id('passwd').send_keys("31314")
+                self.browser.find_element_by_id('passwd').send_keys("131314")
                 self.browser.find_element_by_name('agreecheck').click()
                 self.browser.find_element_by_id('login-button').click()
                 time.sleep(2)
@@ -34,8 +34,6 @@ class YuYue():
                 time.sleep(1)
                 print(time.strftime('%Y-%m-%d %H:%M:%S', time.localtime(time.time())))
                 self.browser.close()
-
-
 if __name__ == '__main__':
     yuyue = YuYue()
     yuyue.get()
