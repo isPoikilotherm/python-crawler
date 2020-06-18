@@ -11,7 +11,7 @@ class YuYue():
 
     def get(self):
 
-        starttime = datetime.datetime(2020, 6, 17, 6, 0, 10)
+        starttime = datetime.datetime(2020, 6, 18, 6, 0, 10)
 
         while True:
             currenttime = datetime.datetime.now()
